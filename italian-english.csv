@@ -1,0 +1,86 @@
+1,Numbers,Counting, 1,Uno,Numeri,Conteggio,itl1,eng1
+2,Numbers,Counting, 2,Due,Numeri,Conteggio,itl2,eng2
+3,Numbers,Counting, 3,Tre,Numeri,Conteggio,itl3,eng3
+4,Numbers,Counting, 4,Quattro,Numeri,Conteggio,itl4,eng4
+5,Numbers,Counting, 5,Cinque,Numeri,Conteggio,itl5,eng5
+6,Numbers,Counting, 6,Sei,Numeri,Conteggio,itl6,eng6
+7,Numbers,Counting, 7,Sette,Numeri,Conteggio,itl7,eng7
+8,Numbers,Counting, 8,Otto,Numeri,Conteggio,itl8,eng8
+9,Numbers,Counting, 9,Nove,Numeri,Conteggio,itl9,eng9
+10,Numbers,Counting,10,Dieci,Numeri,Conteggio,itl10,eng10
+11,Numbers,Fractions,A quarter,Un quartino,Numeri,Frazioni,itl11,eng11
+12,Numbers,Fractions,A third,Un terzo,Numeri,Frazioni,itl12,eng12
+13,Numbers,Fractions,A half,Una metà,Numeri,Frazioni,itl13,eng13
+14,Numbers,Fractions,All,Tutto,Numeri,Frazioni,itl14,eng14
+15,Numbers,Measurements,Millimeter,Millimetro,Numeri,Misure,itl15,eng15
+16,Numbers,Measurements,Centimeter,Centimetro,Numeri,Misure,itl16,eng16
+17,Numbers,Measurements,Meter,Metro,Numeri,Misure,itl17,eng17
+18,Numbers,Measurements,Kilometer,Chilometro,Numeri,Misure,itl18,eng18
+19,Numbers,Measurements,Gram,Grammo,Numeri,Misure,itl19,eng19
+20,Numbers,Measurements,Kilogram,Chilogrammo,Numeri,Misure,itl20,eng20
+21,Socializing,Greetings,Hello,Ciao,Socializzare,Saluti,itl21,eng21
+22,Socializing,Greetings,Hi,Ciao,Socializzare,Saluti,itl22,eng22
+23,Socializing,Greetings,Good morning,Buongiorno,Socializzare,Saluti,itl23,eng23
+24,Socializing,Greetings,Good afternoon,Buon pomeriggio,Socializzare,Saluti,itl24,eng24
+25,Socializing,Greetings,Good evening,Buona sera,Socializzare,Saluti,itl25,eng25
+26,Socializing,Greetings,Good night,Buona notte,Socializzare,Saluti,itl26,eng26
+27,Socializing,Greetings,Goodbye,Arrivederci,Socializzare,Saluti,itl27,eng27
+28,Socializing,Greetings,My name is...,Mi chiamo...,Socializzare,Saluti,itl28,eng28
+29,Socializing,Greetings,What’s our name?,Come ti chiami?,Socializzare,Saluti,itl29,eng29
+30,Socializing,Greetings,How are you? (masc),Come stai?,Socializzare,Saluti,itl30,eng30
+31,Socializing,Greetings,How are you? (fem),Come sta?,Socializzare,Saluti,itl31,eng31
+32,Socializing,Greetings,Pleased to meet you.,Piacere di incontrarla,Socializzare,Saluti,itl32,eng32
+33,Socializing,Small Talk,What's your name?,Come ti chiami?,Socializzare,Chiacchiere,itl33,eng33
+34,Socializing,Small Talk,Where are you from?,Da dove vieni?,Socializzare,Chiacchiere,itl34,eng34
+35,Socializing,Small Talk,What do you do for a living?,Che lavoro fai?,Socializzare,Chiacchiere,itl35,eng35
+36,Socializing,Small Talk,Do you like music?,Ti piace la musica?,Socializzare,Chiacchiere,itl36,eng36
+37,Socializing,Small Talk,Which bands do you like?,Quali gruppi musicali preferisci?,Socializzare,Chiacchiere,itl37,eng37
+38,Socializing,Small Talk,Do you like sport?,Ti piace lo sport?,Socializzare,Chiacchiere,itl38,eng38
+39,Socializing,Small Talk,Which sports do you like?,Quali sport preferisci?,Socializzare,Chiacchiere,itl39,eng39
+40,Socializing,Small Talk,Do you like travelling?,Ti piace viaggiare?,Socializzare,Chiacchiere,itl40,eng40
+41,Socializing,At the Bar,Can I buy you a drink?,Posso offrirti da bere,Socializzare,Al Bar,itl41,eng41
+42,Socializing,At the Bar,What would you like?,Cosa preferisci?,Socializzare,Al Bar,itl42,eng42
+43,Socializing,At the Bar,It's my round.,Tocca a me.,Socializzare,Al Bar,itl43,eng43
+44,Socializing,At the Bar,Cheers!,Salute!,Socializzare,Al Bar,itl44,eng44
+45,Socializing,At the Bar,Do you serve cocktails?,Servite dei cocktail?,Socializzare,Al Bar,itl45,eng45
+46,Socializing,At the Bar,I would like...,Vorrei,Socializzare,Al Bar,itl46,eng46
+47,Socializing,At the Bar,Water,Acqua,Socializzare,Al Bar,itl47,eng47
+48,Socializing,At the Bar,Coke,Coca Cola,Socializzare,Al Bar,itl48,eng48
+49,Socializing,At the Bar,Diet Coke,Diet Coke,Socializzare,Al Bar,itl49,eng49
+50,Socializing,At the Bar,Lemonade,Limonata,Socializzare,Al Bar,itl50,eng50
+51,Socializing,At the Bar,Orange juice,Succo d'arancia,Socializzare,Al Bar,itl51,eng51
+52,Socializing,At the Bar,A white coffee,Un caffè macchiato,Socializzare,Al Bar,itl52,eng52
+53,Socializing,At the Bar,a black coffee,Un caffè,Socializzare,Al Bar,itl53,eng53
+54,Socializing,At the Bar,A pint of beer,Una pinta di birra,Socializzare,Al Bar,itl54,eng54
+55,Socializing,At the Bar,A glass of red wine,Unbicchiere di vino rosso,Socializzare,Al Bar,itl55,eng55
+56,Socializing,At the Bar,A glass of white wine,Un bicchiere di vino bianco,Socializzare,Al Bar,itl56,eng56
+57,Socializing,At the Bar,A gin,Un gin,Socializzare,Al Bar,itl57,eng57
+58,Socializing,At the Bar,A gin and tonic,Un gin tonic,Socializzare,Al Bar,itl58,eng58
+59,Socializing,At the Bar,A rum,Un rum,Socializzare,Al Bar,itl59,eng59
+60,Socializing,At the Bar,A vodka,Una vodka,Socializzare,Al Bar,itl60,eng60
+61,Socializing,At the Bar,Vodka and Coke,Vodka e Coca,Socializzare,Al Bar,itl61,eng61
+62,Socializing,At the Bar,Vodka and Orange,Vodka e aranciata,Socializzare,Al Bar,itl62,eng62
+63,Socializing,At the Bar,Vodka and Lemonade,Vodka e limonata frizzante,Socializzare,Al Bar,itl63,eng63
+64,Socializing,At the Bar,A whiskey,Un whisky,Socializzare,Al Bar,itl64,eng64
+65,Socializing,At the Bar,Whisky and Coke,Whisky e Coca,Socializzare,Al Bar,itl65,eng65
+66,Socializing,At the Bar,Whiskey and Lemonade,Whisky e limonata frizzante,Socializzare,Al Bar,itl66,eng66
+67,Socializing,At the Bar,With Ice,Con ghiaccio,Socializzare,Al Bar,itl67,eng67
+68,Socializing,At the Bar,One More Please,Un altro per favore.,Socializzare,Al Bar,itl68,eng68
+69,Socializing,Romance,Would you like a drink?,Vuoi da bere?,Socializzare,Romanticismo,itl69,eng69
+70,Socializing,Romance,What's your star sign?,Qual'è il tuo segno zodiacale?,Socializzare,Romanticismo,itl70,eng70
+71,Socializing,Romance,You have lovely eyes.,Hai degli occhi belli.,Socializzare,Romanticismo,itl71,eng71
+72,Socializing,Romance,You're very attractive,Sei molto attraente,Socializzare,Romanticismo,itl72,eng72
+73,Socializing,Romance,I really like you.,Mi piaci veramente tanto.,Socializzare,Romanticismo,itl73,eng73
+74,Socializing,Romance,I love you.,Ti amo.,Socializzare,Romanticismo,itl74,eng74
+75,Socializing,Romance,Kiss me.,Baciami.,Socializzare,Romanticismo,itl75,eng75
+76,Socializing,Romance,I want you,Ti desidero molto.,Socializzare,Romanticismo,itl76,eng76
+77,Medical,The Doctors,Where is the nearest Doctor?,Dov'è il dottore più vicino?,Medicina,I Dottori,itl77,eng77
+78,Medical,The Doctors,Where is the nearest Hospital?,Dov'è l'ospedale più vicino?,Medicina,I Dottori,itl78,eng78
+79,Medical,The Doctors,I need a Doctor.,Ho bisogno di un dottore.,Medicina,I Dottori,itl79,eng79
+80,Medical,The Doctors,I am sick.,Sto male.,Medicina,I Dottori,itl80,eng80
+81,Medical,The Doctors,It hurts here.,Mi fa male qui.,Medicina,I Dottori,itl81,eng81
+82,Medical,The Doctors,I have a headache.,Ho mal di testa.,Medicina,I Dottori,itl82,eng82
+83,Medical,The Doctors,I have diarrhoea.,Ho la diarrea.,Medicina,I Dottori,itl83,eng83
+84,Medical,The Doctors,I have stomach pains.,Ho male allo stomaco.,Medicina,I Dottori,itl84,eng84
+85,Medical,The Doctors,I am pregnant,Sono incinta,Medicina,I Dottori,itl85,eng85
+86,Medical,The Doctors,May I see a female doctor?,Vorrei vedere una dottoressa.,Medicina,I Dottori,itl86,eng86
